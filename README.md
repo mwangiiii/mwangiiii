@@ -134,7 +134,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/Schedule_a_Call-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/📁_View_Portfolio-FFA500?style=for-the-badge)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/📁_View_Portfolio-FFA500?style=for-the-badge)](https://frabjous-griffin-7afe26.netlify.app/)
 [![Email](https://img.shields.io/badge/📧_Quick_Response-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwangiwanjiku033@gmail.com)
 
 </div>

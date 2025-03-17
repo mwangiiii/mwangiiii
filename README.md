@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack Developer | Scalable Web Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Turning+complex+business+needs+into+efficient+solutions;Expert+in+building+high-performance+APIs;Database+architect+handling+10k%2B+requests%2Fsec;Full-cycle+development+from+concept+to+deployment" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Efficient+solutions+for+complex+business+needs;Expert+in+high-performance+APIs;Database+architect;Full-cycle+development" />
 </p>
 
 ---

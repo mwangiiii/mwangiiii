@@ -24,7 +24,7 @@
 💬 **Ask Me About:** Laravel, SQL, Backend Development, and API Integrations  
 📫 **How to Reach Me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wanjiku-64631b257/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mwangiwanjiku033@gmail.com)  
 ⚡ **Fun Fact:** I can turn coffee ☕ into efficient code!  
 
 ---

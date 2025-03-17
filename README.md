@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! 👋 I'm Dennis Wanjiku</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Laravel Enthusiast | SQL Specialist 🚀</h3>
+<h1 align="center">¡Ola! 🤩 I'm Dennis Wanjiku</h1>
+<h3 align="center">A Passionate Full-Stack Developer | Laravel Enthusiast | SQL Specialist </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=600&lines=Building+Awesome+Web+Apps+with+Laravel;Advanced+SQL+Developer;Passionate+about+Databases+%26+Backend;Always+Learning+New+Technologies!" />

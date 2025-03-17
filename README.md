@@ -73,21 +73,16 @@
 ---
 
 ## 🏆 Recent Projects
-
 <div align="center">
-  <a href="https://github.com/mwangiiii/rental-house-booking">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mwangiiii&repo=rental-house-booking&theme=radical" />
+  <a href="https://github.com/mwangiiii/RentalHousingSystem.git">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mwangiiii&repo=RentalHousingSystem&theme=radical" />
   </a>
-  <a href="https://github.com/mwangiiii/laravel-api-project">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mwangiiii&repo=laravel-api-project&theme=radical" />
+  <a href="https://github.com/kinglui2/MERN-E-commerce.git">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kinglui2&repo=MERN-E-commerce&theme=radical" />
   </a>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mwangiiii/mwangiiii/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 

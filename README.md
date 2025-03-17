@@ -1,14 +1,19 @@
-<h1 align="center">¡Ola! 🤩 I'm Dennis Wanjiku</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Laravel Enthusiast | SQL Specialist </h3>
+<h1 align="center">
+  ¡Hola! 👋 I'm <span style="color: #4CAF50;">Dennis Wanjiku</span>
+</h1>
+<h3 align="center">
+  A Passionate Full-Stack Developer | Laravel Enthusiast | SQL Specialist 
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=600&lines=Building+Awesome+Web+Apps+with+Laravel;Advanced+SQL+Developer;Passionate+about+Databases+%26+Backend;Always+Learning+New+Technologies!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=600&lines=Building+Awesome+Web+Apps+with+Laravel;Advanced+SQL+Developer;Passionate+about+Databases+%26+Backend;Always+Learning+New+Technologies!" alt="Typing Animation" />
 </p>
 
 <div align="center">
   
   [![Profile Views](https://komarev.com/ghpvc/?username=mwangiiii&color=brightgreen&style=flat-square)](https://github.com/mwangiiii)
   [![Followers](https://img.shields.io/github/followers/mwangiiii?style=social)](https://github.com/mwangiiii)
+  [![GitHub Stars](https://img.shields.io/github/stars/mwangiiii?style=social)](https://github.com/mwangiiii)
   
 </div>
 
@@ -16,15 +21,15 @@
 
 ## 🚀 About Me  
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
 
 🔭 **Currently Working On:** A Laravel-based **Rental House Booking System**  
 🌱 **Learning:** Advanced **SQL, System Design**, and **Scalable Architectures**  
 👯 **Open to Collaborations:** Web Development, APIs, and Scalable Backend Systems  
 💬 **Ask Me About:** Laravel, SQL, Backend Development, and API Integrations  
 📫 **How to Reach Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wanjiku-64631b257/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mwangiwanjiku033@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wanjiku-64631b257/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwangiwanjiku033@gmail.com)  
 ⚡ **Fun Fact:** I can turn coffee ☕ into efficient code!  
 
 ---
@@ -62,12 +67,12 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwangiiii&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mwangiiii&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwangiiii&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mwangiiii&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwangiiii&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwangiiii&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -75,21 +80,38 @@
 ## 🏆 Recent Projects
 <div align="center">
   <a href="https://github.com/mwangiiii/RentalHousingSystem.git">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mwangiiii&repo=RentalHousingSystem&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mwangiiii&repo=RentalHousingSystem&theme=radical" alt="Rental Housing System" />
   </a>
   <a href="https://github.com/kinglui2/MERN-E-commerce.git">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kinglui2&repo=MERN-E-commerce&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kinglui2&repo=MERN-E-commerce&theme=radical" alt="MERN E-commerce" />
   </a>
 </div>
 
 ---
 
+## 🌟 Let's Connect!  
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-wanjiku-64631b257/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mwangiiii)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+  
+</div>
+
 ---
 
-<h2 align="center">🚀 Let's build something amazing together! 🚀</h2>
+<h2 align="center">🚀 Let's Build Something Amazing Together! 🚀</h2>
 
 <div align="center">
   
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
   
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Animation" />
+</p>
